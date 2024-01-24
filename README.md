@@ -1,2 +1,2 @@
 # demo
-git exerices
+git activities
